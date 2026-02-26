@@ -1,9 +1,13 @@
-﻿namespace HelloWorld;
+﻿using System;
+
+namespace HelloWorld;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome, World!");
+<<<<<<< Updated upstream
+        Console.WriteLine("Hi, World!");
+>>>>>>> Stashed changes
     }
 }
